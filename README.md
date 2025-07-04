@@ -2,6 +2,7 @@
 
 This project simulates a basic payment system using Object-Oriented Programming (OOP) concepts in Python.  
 It allows users to select a payment method (UPI or Credit Card) and processes the transaction using polymorphism.
+In this repo i'm adding files every day, they are the small projects i'm building to learn python concepts
 
 ---
 
