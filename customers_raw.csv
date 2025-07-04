@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Email,City,SignupDate
+1,Ashutosh,24,ashu@email.com,Delhi,2022-01-10
+2,Riya,,riya@email.com,Mumbai,2021-12-15
+3,Sam,29,,London,2022-01-05
+4,Neha,26,neha@email.com,Bangalore,
+5,,30,rahul@email.com,Hyderabad,2022-03-01
